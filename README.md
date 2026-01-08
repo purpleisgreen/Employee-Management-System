@@ -8,4 +8,6 @@ Search engine is designed in constant time for ID/name/location queries. Support
 
 Future Update: Improving graphics using HTML and CSS. 
 
+Please note that inorder to load data from the file, employee data has to be first added, and **saved using the save button**. No sample data is provided. 
+
 Inspired by the WorkDay platform which I used for work. 
